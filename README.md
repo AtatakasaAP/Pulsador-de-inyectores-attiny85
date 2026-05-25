@@ -1,5 +1,7 @@
 # Pulsador de Inyectores ATTiny85
-
+<p align="center">
+  <img src="PCBPREVIEW.png" width="500">
+</p>
 Pulsador de inyectores nafteros basado en ATTiny85.
 
 Proyecto diseñado y desarrollado por mí con fines educativos, experimentales y de uso personal, pensado para que cualquiera pueda fabricar su propio pulsador de inyectores de manera simple y económica.
